@@ -43,8 +43,11 @@ Evaluar el rendimiento de consultas SQL y bases de datos NoSQL.
 
 Medir la latencia y throughput en bases de datos.
 
+-------------------------------------------------------------------------------------------------------------------------------------
 
 Pensar en las tareas que cada uno realiza a diario y escribir en una tabla de dos entradas las tareas y que benchmark la representa mejor.
+
+---------------------------------------------------------------------------------------------------------------------------------
 
 Cual es el rendimiento de estos procesadores para compilar el kernel de linux ?
 Intel Core i5-13600K
